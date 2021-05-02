@@ -389,7 +389,7 @@
 #### Q32. You are working with an XML document that uses an XML schema. How do you ensure that an attribute must be specified for its corresponding element?
 
 - [ ] Set the type attribute to `xs:required`.
-- [ ] Set the use attribute to `required`.
+- [x] Set the use attribute to `required`.
 - [ ] Set the minLength attribute to 1.
 - [ ] Set the minOccurs attribute to 1.
 
